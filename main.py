@@ -29,7 +29,7 @@ def selection_sort(arr):
                 min_index = j
         # swap start of subarray with minimum element
         arr[i], arr[min_index] = arr[min_index], arr[i]
-
     return arr
 
-
+def merge_sort(arr):
+    

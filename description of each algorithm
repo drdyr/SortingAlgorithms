@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+QUICKSORT
+-utilises recursion
+-choose arbitrary pivot point, add items lower than the pivot and higher than the pivot into two separate arrays.
+-return the quicksort of these two arrays added together
+
+SELECTION SORT
+-iterate through entire array to find minimum value and move it to front
+-repeat till end of array
+
+MERGE SORT
+-split array until individual parts
